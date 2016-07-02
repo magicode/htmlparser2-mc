@@ -1,0 +1,15 @@
+{
+  "name": "htmlparser2-mc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "domhandler": "https://github.com/magicode/domhandler/tarball/feefc15",
+    "htmlparser2": "https://github.com/magicode/htmlparser2/tarball/ltgt"
+  }
+}
